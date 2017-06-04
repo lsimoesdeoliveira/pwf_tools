@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.7z
+Arquivos Auxiliares/DESPACHO_21_01_16_NORTE EXPORTADOR_CVU_PESADA.xls
+Arquivos Auxiliares/Bacias.xlsx
+Arquivos Auxiliares/Larguras Colunas Anarede.xlsx
+*.xlsm
+__pycache__/dicionarios.cpython-36.pyc
+*.pyc
+*.xlsx
