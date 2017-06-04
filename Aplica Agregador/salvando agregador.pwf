@@ -1,0 +1,93 @@
+(ulog
+(2
+(0PES-PD 2024-NORTE UMIDO - Versão Intermediária.SAV
+(arqv rest
+(19
+(ulog
+(1
+(dados_agregadores.pwf
+(ulog
+(1
+(agregadores_2019.pwf
+(exlf
+(arqv grav subs novo
+(19
+(
+(
+arqv rest
+20
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2020.pwf
+exlf
+arqv grav subs novo
+20
+(
+
+arqv rest
+21
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2021.pwf
+exlf
+arqv grav subs novo
+21
+
+
+arqv rest
+22
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2022.pwf
+exlf
+arqv grav subs novo
+22
+
+
+arqv rest
+23
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2023.pwf
+exlf
+arqv grav subs novo
+23
+
+
+arqv rest
+24
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2024.pwf
+exlf
+arqv grav subs novo
+24
+
+arqv rest
+25
+ulog
+1
+dados_agregadores.pwf
+ulog
+1
+agregadores_2025.pwf
+exlf
+arqv grav subs novo
+25
+
+FIM

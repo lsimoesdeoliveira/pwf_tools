@@ -1,0 +1,147 @@
+dagr
+(AG (         D E S C R I C A O        )
+006 Tipo de Geração
+(ID O (       Nome de Identificacao      )
+1     CER
+2     EOL
+3     PCH
+4     SIN
+5     UHE
+6     UNE
+7     UTE
+8     UFV
+fagr
+(AG (         D E S C R I C A O        )
+007 Tipo de Geração PD
+(ID O (       Nome de Identificacao      )
+ 1    Biomassa
+ 2    Disel
+ 3    Carvão
+ 4    Disel Fixo
+ 5    Eólica
+ 6    Gás
+ 7    Gás Fixo
+ 8    Hidráulica
+ 9    Hidráulica Fixa
+10    Nuclear
+11    PCH
+fagr
+(AG (         D E S C R I C A O        )
+008 Região
+(ID O (       Nome de Identificacao      )
+1     Norte
+2     Nordeste
+3     Centro Oeste
+4     Sudeste
+5     Sul
+fagr
+(AG (         D E S C R I C A O        )
+009 Estado
+(ID O (       Nome de Identificacao      )
+ 1    Acre
+ 2    Alagoas
+ 3    Amazonas
+ 4    Amapá
+ 5    Bahia
+ 6    Ceará
+ 7    Distrito Federal
+ 8    Espírito Santo
+ 9    Goiás
+10    Maranhão
+11    Minas Gerais
+12    Mato Grosso do Sul
+13    Mato Grosso
+14    Pará
+15    Paraíba
+16    Pernambuco
+17    Piauí
+18    Paraná
+19    Rio de Janeiro
+20    Rio Grande do Norte
+21    Rondônia
+22    Roraima
+23    Rio Grande do Sul
+24    Santa Catarina
+25    Sergipe
+26    São Paulo
+27    Tocantins
+fagr
+(AG (         D E S C R I C A O        )
+010 Bacia
+(ID O (       Nome de Identificacao      )
+101   H - 1 - Jacuí(RS)
+102   H - 2 - Uruguai(SC)(RS)
+103   H - 3 - Itajaí-Capivari(SC)
+104   H - 4 - Iguaçu(PR)(SC)
+105   H - 5 - Paraná(MS)(SP)(PR)
+106   H - 6 - Paranapanema(SP)(PR)
+107   H - 7 - Tietê(SP)
+108   H - 8 - Grande (MG)(SP)
+109   H - 9 - Paranaíba (MG)(GO)
+110   H - 10 - Paraíba do Sul (SP)(MG)(RJ)
+111   H - 11 - Paraguai(MT)(MS)
+112   H - 12 - Doce-Mucuri (MG)(ES)
+113   H - 13 - Atlântico Leste (MG)(BA)
+114   H - 14 - São Francisco (MG)(BA)(AL)(PE)
+115   H - 15 - Parnaíba (PI)
+116   H - 16 - Tocantins-Araguaia(GO)(TO)(PA)
+117   H - 17 - Teles Pires-Juruena(MT)(PA)
+118   H - 18 - Madeira(RO)(AM)
+119   H - 19 - Amazonas (AM)(PA)(AP)
+120   H - 20 - Araguari (AP)
+121   H - 21 - Atlântico NE Oriental (CE)(RN)(PB)
+122   H - 22 - Atlântico NE Ocidental (MA)
+123   H - 23 - Itaipu 60 Hz (PR) (Bacia do Paraná)
+124   H - 24 - Itaipu 50 Hz (PR) (Bacia do Paraná)
+125   H - 25 - Complexo Madeira (Jirau + S. Ant.)
+201   E - 1 – Delta do Parnaíba (PI)(MA)
+202   E - 2 – Oeste do Ceará (CE)
+203   E - 3 – Leste do Ceará (CE)
+204   E - 4 – João Câmara (RN)
+205   E - 5 – Lagoa Nova (RN)
+206   E - 6 – Campina Grande (PB)(PE)
+207   E - 7 – Angelim (PE)
+208   E - 8 – Caldeirão Grande (PI)(CE)(PE)
+209   E - 9 – Jardim (SE)(BA)
+210   E - 10 – Central da Bahia (BA)
+211   E - 11 – Igaporã (BA)
+212   E - 12 - Coxilha de Santana (RS)
+213   E - 13 - Planalto das Missões (RS)
+214   E - 14 - Serra Gaúcha (RS)
+215   E - 15 - Lagoa dos Patos (RS)
+216   E - 16 - Litoral Sul (RS)
+217   E - 17 - Escudo Rio-Grandense (RS)
+218   E - 18 - Santa Catarina (SC)
+219   E - 19 - Rio de Janeiro (RJ)
+301   S - 1 - Sobral (CE)
+302   S - 2 - Crateús (CE)(PI)
+303   S - 3 - Milagres (CE)(PB)
+304   S - 4 - Mossoró (RN)(CE)
+305   S - 5 - João Câmara (RN)
+306   S - 6 - Natal (RN)
+307   S - 7 - Lagoa Nova (RN)
+308   S - 8 - Campina Grande (PB)
+309   S - 9 - Angelim (PE)(AL)
+310   S - 10 - Bom Nome (PE)
+311   S - 11 - Curral Novo do Piauí (PI)(CE)
+312   S - 12 - São João do Piauí (PI)
+313   S - 13 - Sobradinho (PE)(BA)
+314   S - 14 - Irecê (BA)
+315   S - 15 - Bom Jesus da Lapa (BA)
+316   S - 16 - Igaporã (BA)
+317   S - 17 - Gilbués (PI)
+318   S - 18 - Colinas (TO)
+319   S - 19 - Miracema (TO)
+320   S - 20 - Gurupi (TO)
+321   S - 21 - Dianópolis (TO)
+322   S - 22 - Janaúba (MG)
+323   S - 23 - Pirapora (MG)
+324   S - 24 - Paracatu (MG)
+325   S - 25 - Triângulo (MG)
+326   S - 26 - Goiás (GO)
+327   S - 27 - Oeste de São Paulo (SP)
+401   N - 1 - Angra 1 (RJ)
+402   N - 2 - Angra 2 (RJ)
+403   N - 3 - Angra 3 (RJ)
+99999
+FIM

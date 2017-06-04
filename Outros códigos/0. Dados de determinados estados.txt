@@ -1,0 +1,8 @@
+dlinACRO = dlin[(dlin.A1 == 21) | (dlin.A1 == 1)]
+dlinACRO.A1 = pd.to_numeric(dlinACRO.A1, downcast='integer')
+dlinACRO.A2 = pd.to_numeric(dlinACRO.A2, downcast='integer')
+dlinACRO.to_clipboard()
+
+dbarACRO = dbar[(dbar.Num.isin(dlinACRO.De) | dbar.Num.isin(dlinACRO.Para))]
+
+dshlACRO = dshl[(dshl.De.isin(dbarACRO.Num) | dshl.Para.isin(dbarACRO.Num))]
